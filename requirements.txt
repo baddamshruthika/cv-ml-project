@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
@@ -6,4 +7,14 @@ tensorflow
 streamlit
 xgboost
 joblib
+=======
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+streamlit
+xgboost
+joblib
+>>>>>>> 9194f9b84868ae2066c86ef66ed9120475e23843
 OpenPyXL

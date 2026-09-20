@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data files (too large for GitHub)
+data/FINAL_CV_DATASET.xlsx
+
+# Models (too large for GitHub)
+models/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
